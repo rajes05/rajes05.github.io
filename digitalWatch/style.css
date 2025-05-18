@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f0e0ef8;
+}
+.watchWrapper{
+    background: linear-gradient(to bottom left, red, blue); /* will replaced by js */
+    height: 350px;
+    width: 350px;
+    padding: 7px; /*for thickness of border */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.watch{
+    background-color: #0f0e0ef8;
+    height: 100%;
+    width: 100%;
+    /* background-color: red; */                        
+    border-radius: 50%;    
+    
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+
+    
+}
+#timeText{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+    /* to apply css gradient in text  */
+    background: linear-gradient(to bottom left, red, blue);
+    -webkit-background-clip: text; /*chrome, safari*/
+    background-clip: text; /* for text compatibility (to ensure it support everywhere)*/
+    -webkit-text-fill-color: transparent;
+}
+
+#dateText{
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+    background-color: red;
+
+    /* to apply css gradient */
+    background: linear-gradient(to bottom left, red, blue);
+    -webkit-background-clip: text; /*chrome, safari*/
+    background-clip: text; /* for text compatibility (to ensure it support everywhere)*/
+    -webkit-text-fill-color: transparent;
+}
+
+button{
+    outline: none;
+    height: 60px;
+    width: 150px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+/* alternative */
+/* body.dark{
+    background-color: white;
+    color: black;
+} */
