@@ -28,7 +28,7 @@ Each project is organized in its own folder with proper file structure and docum
 
 | Project Name         | Description                                | Link                                |
 |----------------------|--------------------------------------------|-------------------------------------|
-| Digital Watch        | A digital watch built with HTML/CSS & Javsscript | [View](https://rajes05.github.io/digitalWatch/) |
+| Digital Watch        | A digital watch built with HTML/CSS & Javascript | [View](https://rajes05.github.io/digitalWatch/) |
 <!-- | Portfolio Website    | A personal portfolio site built with HTML/CSS | [View](https://rajes05.github.io/portfolio/) |
 | Calculator App       | A simple calculator using JavaScript       | [View](https://rajes05.github.io/calculator/) |
 | Weather App          | Fetches weather using an API               | [View](https://rajes05.github.io/weather-app/) |
