@@ -42,9 +42,9 @@ body{
     
 }
 #timeText{
-    font-size: 50px;
+    font-size: 40px;
     color: white;
-    font-weight: bold;
+    /* font-weight: bold; */
     text-align: center;
 
     /* to apply css gradient in text  */
@@ -71,6 +71,7 @@ body{
 
 button{
     outline: none;
+    border: none;
     height: 60px;
     width: 150px;
     border-radius: 20px;
