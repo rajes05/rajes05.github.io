@@ -4,7 +4,7 @@ Welcome to my personal GitHub Pages repository!
 This repository serves as a live portfolio for my front-end web development projects.
 
 ## 🌐 Live Site
-Access the live website here: [https://rajes05.github.io](https://rajes05.github.io)
+Access the live website here: [https://rajes05.github.io](https://rajes05.github.io/digitalWatch/)
 
 ---
 
